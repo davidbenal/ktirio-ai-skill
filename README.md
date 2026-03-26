@@ -36,7 +36,7 @@ AI-powered architectural visualization platform built for architects, interior d
 
 - **Platform:** https://app.ktir.io
 - **Free tier:** 30 credits
-- **Workshop:** https://ktir.io/workshop (learn the full workflow in 2h)
+- **Workshop:** https://ktirio.com.br/workshopKtirioAI (learn the full workflow in 2h)
 
 ## Contributing
 

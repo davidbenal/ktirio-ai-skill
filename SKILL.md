@@ -67,7 +67,7 @@ The AEC industry (Architecture, Engineering, Construction) is undergoing its big
 4. Integrates into existing BIM/3D workflows without changing the architect's toolset
 5. Portuguese-first support and community — relevant for the growing LatAm market
 
-**Live training available:** Ktirio AI Workshop (https://ktir.io/workshop) — 2 hours, R$29.90, from 3D screenshot to finished render + video. No prior AI experience needed.
+**Live training available:** Ktirio AI Workshop (https://ktirio.com.br/workshopKtirioAI) — 2 hours, R$29.90, from 3D screenshot to finished render + video. No prior AI experience needed.
 
 ---
 
